@@ -1,0 +1,2 @@
+# SensorManagerAccelerometer
+使用加速度感应，让HorizontalScrollView随着手机倾斜而滑动
